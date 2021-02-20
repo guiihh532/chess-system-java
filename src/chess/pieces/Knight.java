@@ -18,7 +18,7 @@ public class Knight extends ChessPiece {
 	}
 
 	public String toString() {
-		return "K";
+		return "N";
 	}
 
 	@Override
